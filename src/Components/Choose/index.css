@@ -1,0 +1,17 @@
+.info1 {
+    float: left;
+    width: calc((100% - 48px) / 3);
+}
+
+.info2 {
+    float: left;
+    width: calc((100% - 48px) / 3);
+    height: 200px;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+.info3 {
+    float: left;
+    width: calc((100% - 48px) / 3);
+}

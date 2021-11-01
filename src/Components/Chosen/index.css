@@ -1,0 +1,39 @@
+.ChosenBox {
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+}
+
+.ChosenHeader {
+    display: flex;
+    justify-content: space-between;
+    padding: 24px;
+}
+
+.ChosenHeader11 {
+    float: left;
+    padding: 0 0 8px;
+    font-weight: 700;
+}
+
+.ChosenHeader12 {
+    float: left;
+    text-align: left;
+    padding-left: 8px;
+    color: #52c41a;
+    font-weight: 600;
+}
+
+.ChosenHeader2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: right;
+    height: 32px;
+    padding: 0 15px;
+    margin-top: -8px;
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    background-color: #1890ff;
+    border-radius: 4px;
+}

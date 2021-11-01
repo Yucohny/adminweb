@@ -1,0 +1,25 @@
+.ChosenList {
+    width: calc(100% - 8px);
+    padding: 24px;
+}
+
+.ChosenListTitle {
+    width: 100%;
+    height: 24px;
+    margin-bottom: 12px;
+}
+
+.ChosenListTitle1 {
+    float: left;
+    padding: 0 0 8px;
+    font-weight: 600;
+    color: rgba(0, 0, 0, .65);
+}
+
+.ChosenListTitle2 {
+    text-align: left;
+    padding-left: 8px;
+    color: #52c41a;
+    font-weight: 600;
+    float: left;
+}

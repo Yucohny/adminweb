@@ -1,0 +1,11 @@
+.EOContainer {
+    min-height: 450px;
+}
+
+.EOImg {
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

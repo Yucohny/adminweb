@@ -1,0 +1,80 @@
+.SpecialInItemBox {
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+    margin-bottom: 12px;
+}
+
+.SpecialInItemBody {
+    padding: 8px 4px 8px 24px;
+    position: relative;
+}
+
+.SpecialInItemHeader {
+    display: flex;
+    justify-content: space-between;
+}
+
+.SpecialInItemHeader11 {
+    background-color: rgb(82, 196, 26);
+    color: white;
+    display: inline-block;
+    height: auto;
+    margin-right: 8px;
+    padding: 0 7px;
+    font-size: 12px;
+    line-height: 20px;
+    white-space: nowrap;
+    border: 1px solid transparent;
+    cursor: default;
+    opacity: 1;
+    border-radius: 4px;
+}
+
+.SpecialInItemHeader12 {
+    line-height: 22px;
+}
+
+.SpecialInItemHeader2 {
+    height: 50%;
+    margin-right: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.SpecialInItemHeader21 {
+    width: 6px;
+    height: 6px;
+    border-radius: 3px;
+    background-color: rgb(82, 196, 26);
+    float: left;
+    vertical-align: middle;
+    line-height: 14px;
+    display: inline-block;
+}
+
+.SpecialInItemIcon {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    font-size: 12px;
+}
+
+.SpecialInItemFooter {
+    display: flex;
+    justify-content: space-between;
+}
+
+.SpecialInItemFooter1 {
+    line-height: 22px;
+    font-size: 14px;
+    margin-top: 4px;
+    color: #262626;
+    cursor: pointer;
+}
+
+.SpecialInItemFooter21 {
+    font-size: 14px;
+    margin-top: 4px;
+    padding-right: 8px;
+    color: #1890ff;
+}

@@ -1,0 +1,66 @@
+.scheduleContainer {
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+}
+
+.scheduleBody {
+    height: 400px;
+    padding: 24px;
+}
+
+.scheduleTitle {
+    font-weight: 500;
+    font-size: 16px;
+    color: #595959;
+}
+
+.scheduleTime {
+    margin-top: 14px;
+    padding-bottom: 8px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #e6e6e6;
+}
+
+.scheduleTimeMonthNumber {
+    font-size: 24px;
+    font-weight: 700;
+    color: #646466;
+}
+
+.changeScheduleTimeMonth {
+    margin-top: 8px;
+}
+
+.change-time-left, .change-time-right {
+    cursor: pointer;
+    color: #646464;
+    font-size: 12px;
+    display: inline-block;
+}
+
+.change-time-content {
+    text-align: center;
+    width: 85px;
+    display: inline-block;
+}
+
+.scheduleContent {
+    height: 265px;
+    overflow-y: auto;
+    margin-top: 12px;
+}
+
+.scheduleImg {
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.scheduleNotice {
+    color: #909399;
+    margin: 16px 0;
+    font-size: 15px;
+}

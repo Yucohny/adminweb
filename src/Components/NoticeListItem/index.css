@@ -1,0 +1,23 @@
+.noticeListItemBox {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.noticeListItemTitle {
+    width: 70%;
+    /*height: 14px;*/
+    display: inline-block;
+    text-overflow: ellipsis;
+    word-break: break-all;
+    overflow: hidden;
+    white-space: nowrap;
+    color: #1890ff;
+    font-size: 14px;
+}
+
+.noticeListItemDate {
+    color: rgba(0, 0, 0, .45);
+    padding-right: 8px;
+    font-size: 14px;
+}
